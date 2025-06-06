@@ -81,6 +81,8 @@ O sistema utiliza:
 
 ## 💌 Desenvolvedoras
 
+- 1ESPB
+
 - Gabriela Queiroga Cocuzza da Silva   RM - 560035
 - GitHub    https://github.com/gabiqueiroga1
 - LinkedIn   https://www.linkedin.com/in/gabriela-queiroga-493260338/
