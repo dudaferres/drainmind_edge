@@ -75,7 +75,7 @@ O sistema utiliza:
 
 ## 📢 Link para o Vídeo no Youtube
 
-[🔗 Veja o vídeo deste projeto no Youtube](https://wokwi.com/projects/432396740170267649)
+[🔗 Veja o vídeo deste projeto no Youtube](https://youtu.be/mnotd0-J_a0)
 
 ---
 
